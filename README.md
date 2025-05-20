@@ -23,8 +23,6 @@ Navigation mode in Lighthouse reloads the page and analyzes it as it loads. This
 
 ## Question 4
 
-4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.
-
 1. Performance: The images of the shop can be resized to cut down on the amount of bytes of information that need to be sent over the network to load the page because some images are larger than their displayed sizes (meaning more information is being sent than is needed).  
 2. Accessibility: A lang attribute can be added to the page to help screen readers interpret and pronounce the text correctly, improving accessibility for users with visual impairments. It can also support translation tools and contribute to better SEO by signaling the page's language to search engines.
 3. Performance/Best Practices: Adding a <meta name="viewport"> tag with width or initial-scale ensures the page scales correctly on mobile devices, enabling responsive design and improving readability. Without it, the page may appear zoomed out and be less mobile-friendly.   
