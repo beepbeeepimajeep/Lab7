@@ -1,17 +1,32 @@
-#Lab 7.
-#Sarah Chun & Rain van Eetveldt
+# Lab 7  
+**Sarah Chun & Rain van Eetveldt**
 
-##Question 1
+---
 
-Automated tests are most effective when they run consistently and early in the development process. Running them in a GitHub Action on every push ensures that tests run automatically, code is validated before merging and bugs are caught early. 
+## Question 1
 
-##Question 2 
+Automated tests are most effective when they run consistently and early in the development process. Running them in a GitHub Action on every push ensures that tests run automatically, code is validated before merging, and bugs are caught early.
 
-No, checking the return of a funciton is an example of a unit test. E2E tests are designed to simulate and test the flow of the application, from start to finish. It includes UI interactions, such as clicking button, navigating the webpage and filling in forms. 
+---
 
-##Question 3
+## Question 2
 
-##Question 4
+No, checking the return of a function is an example of a unit test. E2E tests are designed to simulate and test the flow of the application, from start to finish. They include UI interactions, such as clicking buttons, navigating the webpage, and filling in forms.
 
+---
 
-### Test results found at ./testResults.jpg
+## Question 3
+
+<!-- TODO -->
+
+---
+
+## Question 4
+
+<!-- TODO -->
+
+---
+
+### Test Results
+
+![Test Results](./testResults.jpg)
